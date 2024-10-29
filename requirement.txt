@@ -1,0 +1,6 @@
+numpy 
+pandas
+matplot
+opencv-python 
+jupyter
+labelImg
